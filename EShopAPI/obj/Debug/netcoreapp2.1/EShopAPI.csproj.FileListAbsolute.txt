@@ -1,0 +1,15 @@
+D:\Project\MVCProject\EShopWebAPI\EShopAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Project\MVCProject\EShopWebAPI\EShopAPI\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Project\MVCProject\EShopWebAPI\EShopAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Project\MVCProject\EShopWebAPI\EShopAPI\bin\Debug\netcoreapp2.1\EShopAPI.deps.json
+D:\Project\MVCProject\EShopWebAPI\EShopAPI\bin\Debug\netcoreapp2.1\EShopAPI.runtimeconfig.json
+D:\Project\MVCProject\EShopWebAPI\EShopAPI\bin\Debug\netcoreapp2.1\EShopAPI.runtimeconfig.dev.json
+D:\Project\MVCProject\EShopWebAPI\EShopAPI\bin\Debug\netcoreapp2.1\EShopAPI.dll
+D:\Project\MVCProject\EShopWebAPI\EShopAPI\bin\Debug\netcoreapp2.1\EShopAPI.pdb
+D:\Project\MVCProject\EShopWebAPI\EShopAPI\obj\Debug\netcoreapp2.1\EShopAPI.RazorAssemblyInfo.cache
+D:\Project\MVCProject\EShopWebAPI\EShopAPI\obj\Debug\netcoreapp2.1\EShopAPI.RazorAssemblyInfo.cs
+D:\Project\MVCProject\EShopWebAPI\EShopAPI\obj\Debug\netcoreapp2.1\EShopAPI.AssemblyInfoInputs.cache
+D:\Project\MVCProject\EShopWebAPI\EShopAPI\obj\Debug\netcoreapp2.1\EShopAPI.AssemblyInfo.cs
+D:\Project\MVCProject\EShopWebAPI\EShopAPI\obj\Debug\netcoreapp2.1\EShopAPI.RazorTargetAssemblyInfo.cache
+D:\Project\MVCProject\EShopWebAPI\EShopAPI\obj\Debug\netcoreapp2.1\EShopAPI.dll
+D:\Project\MVCProject\EShopWebAPI\EShopAPI\obj\Debug\netcoreapp2.1\EShopAPI.pdb
